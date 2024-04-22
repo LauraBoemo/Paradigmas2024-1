@@ -12,13 +12,13 @@ Em Java, crie um programa para controle de uma academia que atenda aos seguintes
   - Cadastrar uma ou mais opções de treino, onde cada opção de treino contém uma lista de exercícios.
   - Para cada exercício, informar: o número de séries, o número mínimo e máximo de repetições, a carga utilizada (em kgs) e o tempo de descanso (em minutos)
   - Alterar ou excluir opções de treino e os dados dos exercícios cadastrados.
-6. [] Deve ser possível ao aluno, em determinada data, iniciar um treino:
+1. [] Deve ser possível ao aluno, em determinada data, iniciar um treino:
   - Escolher um treino dentre as opções disponíveis.
   - Consultar os exercícios a serem feitos, mostrando os dados cadastrados.
   - Marcar exercícios do treino que foram concluídos.
   - Alterar a carga de um determinado exercício.
   - Encerrar um treino.
-7. [] Relatórios
+1. [] Relatórios
   - Mostrar as datas em que o aluno compareceu à academia em um intervalo de datas.
   - Para um determinado exercício, mostrar a evolução de carga ao longo do tempo.
 
